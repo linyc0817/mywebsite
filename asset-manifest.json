@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/linyc0817/mywebsite/static/css/main.073c9b0a.css",
+    "main.js": "/linyc0817/mywebsite/static/js/main.6fbc566e.js",
+    "static/js/787.ad993d45.chunk.js": "/linyc0817/mywebsite/static/js/787.ad993d45.chunk.js",
+    "static/media/logo.svg": "/linyc0817/mywebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/linyc0817/mywebsite/index.html",
+    "main.073c9b0a.css.map": "/linyc0817/mywebsite/static/css/main.073c9b0a.css.map",
+    "main.6fbc566e.js.map": "/linyc0817/mywebsite/static/js/main.6fbc566e.js.map",
+    "787.ad993d45.chunk.js.map": "/linyc0817/mywebsite/static/js/787.ad993d45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6fbc566e.js"
+  ]
+}
