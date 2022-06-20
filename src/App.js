@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Build Pending ~
+          Build Pending ~~
         </a>
       </header>
     </div>
